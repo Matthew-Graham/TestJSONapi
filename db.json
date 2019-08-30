@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "strategy": [
     {
       "id": 1,
-      "title": "hello"
+      "stock": "AAA",
+      "size":1000
+      "exit":">1000"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
